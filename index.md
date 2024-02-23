@@ -9,10 +9,10 @@ country: "us"      # lowercase two-letter ISO country code such as "fr" (see htt
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
 latitude: "0"        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "0"       # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "March 12, 14, 19, and 21, 2024"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "9:00 am - 1:00 pm MT (11:00 - 3:00 pm ET)"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
-startdate: 2023-09-06      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2023-09-14        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+humandate: "March 11, 12, 14, 19, and 21, 2024"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: "March 11 10:00 am - 11:00 am MT,  Other days 9:00 am - 1:00 pm MT (11:00 - 3:00 pm ET)"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
+startdate: 2024-03-11      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2024-03-21        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Eric Ward", "Saira Haider","Taylor Woods"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Rob Baker", "Joe Edgerton", "Courtney Killian", "Olivia Pearman", "Gregor Siegmund"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["eric.ward@gmail.com", "shaider@usgs.gov", "tewoods@usgs.gov","gdonovan@usgs.gov"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
